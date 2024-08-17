@@ -11,3 +11,7 @@ Este repositório tem a finalidade de guardar o que se criou ao decorrer dos dia
 
 <img src="Apresentação - Lockbox/1.jpg" alt="Logo inicial do projeto">
 Logo inicial de apresentação do projeto
+
+
+<img src="Circuito%20do%20projeto%20no%20Simulador%20Online%20Tinkercad.png" alt="Circuito LockBox no simulador Online Tinkercad">
+Imagem do circuito do projeto LockBox no Simulador Online Tinkercad.com
