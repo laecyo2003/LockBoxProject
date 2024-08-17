@@ -9,5 +9,5 @@ O projeto tem como objetivo o ensino e estimulação do raciocínio lógico-mate
 O LockBox foi apresentado como conclusão do "Curso de Robótica para Graduandos" ofertado pelo  projeto Um Robô por Aluno (URA) da ECT-UFRN.
 Este repositório tem a finalidade de guardar o que se criou ao decorrer dos dias de desenvolvimento do LockBox, assim como ser palco para futuras melhorias no código e ou no circuito do projeto.
 
-<img src="Circuito%20do%20projeto%20no%20Simulador%20Online%20Tinkercad.png" alt="Circuito LockBox no simulador Online Tinkercad">
-Circuito do projeto LockBox no simulador Online Tinkercad.com
+<img src="Apresentação - Lockbox/1.jpg" alt="Logo inicial do projeto">
+Logo inicial de apresentação do projeto
