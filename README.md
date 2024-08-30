@@ -1,4 +1,8 @@
-# LockBoxProject
+<h1>
+  LockBoxProject
+</h1> 
+
+<div align="justify">
 LockBox é um projeto educacional baseado no Arduino Uno R3 | LockBox is educational project based on Arduino Uno R3
 Foi desenvolvido pelos seguintes estudantes de graduação do curso de Bacharelado em Ciências e Tecnologia da Escola de Ciências e Tecnologia (ECT) da Universisadade Federal do Rio Grande do Norte (UFRN):
 Eduardo de Lima Soares – eduardo.soares.718@ufrn.edu.br
@@ -46,3 +50,5 @@ Segue, abaixo, a apresentação do projeto
 
 <img src="Circuito%20do%20projeto%20no%20Simulador%20Online%20Tinkercad.png" alt="Circuito LockBox no simulador Online Tinkercad">
 Imagem do circuito do projeto LockBox no Simulador Online Tinkercad.com
+
+</div>
