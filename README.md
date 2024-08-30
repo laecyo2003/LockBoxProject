@@ -3,18 +3,23 @@
 </h1> 
 
 <div align="justify">
-LockBox é um projeto educacional baseado no Arduino Uno R3 foi desenvolvido pelos seguintes estudantes de graduação do curso de Bacharelado em Ciências e Tecnologia da Escola
-de Ciências e Tecnologia (ECT) da Universisadade Federal do Rio Grande do Norte (UFRN):
-<li> Eduardo de Lima Soares – eduardo.soares.718@ufrn.edu.br </li>
-<li> Laécyo Miguel Albino Lopes – laecyo.miguel.albino.109@ufrn.edu.br </li>
-<li> Laura Rodrigues Siqueira – laura.siqueira.086@ufrn.edu.br </li>
+  <h2> FINALIDADE </h2>
+<p>
+  LockBox é um projeto educacional baseado no Arduino Uno R3 foi desenvolvido pelos seguintes estudantes de graduação do curso de Bacharelado em Ciências e Tecnologia da
+  Escola de Ciências e Tecnologia (ECT) da Universisadade Federal do Rio Grande do Norte (UFRN):
+  <li> Eduardo de Lima Soares – eduardo.soares.718@ufrn.edu.br </li>
+  <li> Laécyo Miguel Albino Lopes – laecyo.miguel.albino.109@ufrn.edu.br </li>
+  <li> Laura Rodrigues Siqueira – laura.siqueira.086@ufrn.edu.br </li>
+</p>
 
+<h2> OBJETIVO </h2> 
+<p>
 O projeto tem como objetivo o ensino e estimulação do raciocínio lógico-matemático a partir da proposição de desafios matemáticos que, quando desvendados, resultam na combinação que abre o Cofre Demonstrativo, o qual é estruturado a parir de uma simples caixa de papelão e materiais decorativos, contendo, no interior, um circuito composto de diversos componentes eletrônicos e baseado no Microcontrolador de placa única Arduino Uno R3.
 O LockBox foi apresentado como conclusão do "Curso de Robótica para Graduandos" ofertado pelo  projeto Um Robô por Aluno (URA) da ECT-UFRN.
 Este repositório tem a finalidade de guardar o que se criou ao decorrer dos dias de desenvolvimento do LockBox, assim como ser palco para futuras melhorias no código e ou no circuito do projeto.
+</p>
 
-
-Segue, abaixo, a apresentação do projeto
+<h2> APRESENTAÇÃO DO PROJETO EM SLIDES </h2>
 
 <img src="Apresentação - Lockbox/1.jpg" alt="Logo inicial do projeto">
 
