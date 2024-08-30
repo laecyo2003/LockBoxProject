@@ -3,7 +3,7 @@
 </h1> 
 
 
-  <h2> FINALIDADE </h2>
+<h2> FINALIDADE </h2>
 <p>
   LockBox é um projeto educacional baseado no Arduino Uno R3 foi desenvolvido pelos seguintes estudantes de graduação do curso de Bacharelado em Ciências e Tecnologia da
   Escola de Ciências e Tecnologia (ECT) da Universisadade Federal do Rio Grande do Norte (UFRN):
